@@ -8,9 +8,9 @@
 
 ## **Important Links**
 ### [YOUTUBE VIDEO](https://youtu.be/iBr0Kh3lyes)
-### [LINKEDIN POST]()
+### [LINKEDIN POST](https://www.linkedin.com/posts/amaresam-sai-bharath-chand-47ba50168_hello-my-awesome-%F0%9D%90%8B%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A4%F0%9D%90%9E%F0%9D%90%9D%F0%9D%90%88%F0%9D%90%A7-network-activity-7249829602448056320-hq3X?utm_source=share&utm_medium=member_desktop)
 ### [LIVE DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiN2RhNTIxNGItN2VhMS00ZWQ4LWE5NzgtY2UxOGMyZjBhY2NmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=799bc3e05d581d757123)
-### [PRESENTATION WITH SQL CODES](https://github.com/user-attachments/files/17266418/ev1_presentation.pdf)
+### [PRESENTATION WITH SQL CODES](https://drive.google.com/file/d/1XscLTMeExkzovQvg7OF3MlfqxtRyLIrD/view?usp=sharing)
 
 
 ## **Problem Statement**
